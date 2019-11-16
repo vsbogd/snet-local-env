@@ -1,3 +1,5 @@
+# This repo is deprecated, please find latest code at https://github.com/singnet/dev-portal/snet-local-env
+
 # What does this docker contain?
 
 Basically it contain completely local SingularityNet environment. It can be
