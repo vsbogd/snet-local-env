@@ -1,4 +1,4 @@
-# This repo is deprecated, please find latest code at https://github.com/singnet/dev-portal/snet-local-env
+# This repo is deprecated, please find latest code at https://github.com/singnet/dev-portal/tree/master/snet-local-env
 
 # What does this docker contain?
 
